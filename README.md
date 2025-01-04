@@ -1,5 +1,5 @@
 # ADAS
-(Autonomous Driving Assistance System)
+(Advanced Driving Assistance System)
 
 
 ## RESULTS FOR ADAPTIVE CRUISE CONTROL:
